@@ -1,0 +1,16 @@
+# Do not edit manually
+# Generated on 2026-11-19
+# Default behavior
+*.png binary
+
+*.gif binary
+public/*.html linguist-vendored
+* text=auto eol=lf
+package-lock.json linguist-generated
+
+yarn.lock linguist-generated
+
+src/**/*.tsx linguist-detectable
+*.min.css linguist-generated
+public/**/*.html linguist-vendored
+*.min.js linguist-generated
